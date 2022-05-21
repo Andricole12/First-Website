@@ -15,6 +15,15 @@ li {
     text-align: center;
 }
 
+a {
+    text-decoration: none;
+}
+
+h1 {
+    font-size: 48px;
+    color: #F9FAF8;
+}
+
 img {
     height: 300px;
     width: auto;
@@ -51,9 +60,7 @@ img {
 }
 
 .description {
-    font-size: 48px;
-    color: #F9FAF8;
-    max-width: 500px;
+    max-width: 550px;
     display: flex;
     flex-flow: row wrap;
     justify-content: space-around;
