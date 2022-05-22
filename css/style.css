@@ -22,7 +22,7 @@ a {
 }
 
 h1 {
-    font-size: 48px;
+    font-size: 32px;
     color: #F9FAF8;
 }
 
@@ -61,9 +61,7 @@ img {
 
 .description {
     max-width: 550px;
-    display: flex;
-    flex-flow: row wrap;
-    justify-content: space-around;
+    color: #E5E7EB;
 }
 
 .header-image {
